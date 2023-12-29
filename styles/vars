@@ -1,0 +1,18 @@
+@import url("style.scss");
+:root {
+  --primary-color: #9197b3;
+  --subtitle-text-color: #16c098;
+  --form-bgr-color: #e7e7e7;
+  --focus-color: #5932ea;
+  --nav-text-color: #b5b7c0;
+  --row-text-color: #292d32;
+  --inactive-button-second-color: #ffc5c5;
+  --inactive-button-first-color: #df0404;
+
+  --active-first-color: #008767;
+  --active-button-second-color: rgba(20, 201, 158, 0.39);
+
+  --pagination-text-color: #404b52;
+  --current-page-button-color: #5932ea;
+  --other-page-button-color: #f5f5f5;
+}
